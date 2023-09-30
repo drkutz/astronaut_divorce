@@ -1,0 +1,214 @@
+---
+title: "Astronaut Data"
+author: "Adam Gruber"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(readr)
+library(tidyr)
+library(MASS)
+```
+
+## R Markdown
+
+
+
+```{r include=FALSE}
+
+astro <- read_delim("astronaut file.txt", 
+    delim = "\t", escape_double = FALSE, 
+    trim_ws = TRUE)
+
+#income <- income%>%
+ # mutate(SEX = factor(SEX))
+astro <- astro%>%
+  mutate(`Marital status`= factor(`Marital status`))
+
+
+astro <- transform(astro, Children = as.numeric(as.factor(Children)))
+astro["Children"][is.na(astro["Children"])] <-0
+```
+
+Initially when exploring the data there appears to be several NAs in the data. One of the NAs is for Children. I noticed a lack of zero in the data. So i converted the NA to zero.  The time for the astronauts in space is broken up into 3 columns: Days, Minutes, Hours. 
+
+```{r echo=FALSE, paged.print=TRUE}
+summary(astro)
+
+#pairs(astro[17:18])
+
+```
+The column fights is right skewed. There are a few exceptional people that have done more than just 1 or 2 flights. 
+```{r echo=FALSE}
+hist(astro$Flights)
+```
+
+
+To better calculate the data I created a new column called Total Time in Space(TTS). This allows us to have an accurate comparison. This column is still skewed to the right as well. The majority of astronauts having less than 1000 hours in space. The upper levels would be considered outliers. They are astronauts that spent the most time on the Interantional Space Station. Keeping them in could be valuable as they spent more time away from loved ones. 
+
+
+```{r echo=FALSE}
+astro$tts <- with(astro,((d*24*60)+(h*60)+m))
+hist(astro$tts)
+```
+
+I removed the N/A rows from Marital Status to ensure proper data. I also took all the flights that were NA and converted them to 0
+
+```{r echo=FALSE}
+astro <-astro[!is.na(astro$Marital.status),]
+
+astro["Flights"][is.na(astro["Flights"])] <-0
+
+astro$tts <-log(astro$tts)
+astro[('tts')][sapply(astro[('tts')], is.infinite)] <- 0
+hist(astro$tts)
+
+```
+
+
+I tested several different models for a fit with the astronaut data trying to determine if time in space and or flights affected the odds of getting divorced. I took the factor column of Marital Status and added a new column Mar that was 
+
+The first was the linear model. All of the predictors are considered not significant. All of the linear models have really correlation. Less than .1. The model is little more than random guessing. 
+
+```{r echo=FALSE}
+astro$mar <- as.integer(factor(astro$`Marital.status`))
+
+linearmodel1<- lm(mar~tts +Flights, data = astro)
+
+summary(linearmodel1)
+
+linearmodel2<- lm(mar~tts, data = astro)
+summary(linearmodel2)
+
+linearmodel3<- lm(mar~tts +Flights+ Children, data = astro)
+summary(linearmodel3)
+```
+
+The second model used for making prediction was the logistic model using the glm function. None of the predictors are considered significant. The AIC between all 3 models is relatively close with 3 points: 470,468,471.
+```{r echo=FALSE}
+
+
+logisticmodel1<- glm(mar~tts + Flights, data = astro)
+summary(logisticmodel1)
+
+logisticmodel2<- glm(mar~tts, data = astro)
+summary(logisticmodel2)
+
+logisticmodel3<- glm(mar~tts + Flights + Children, data = astro)
+summary(logisticmodel3)
+```
+We try the LDA model to make predictions on who will get divorced based on time in space and flights. This model accurately classifies 420/470. It classifies all astronauts as married. They made up the largest group and the model tries to predict as accurately as possible. it is only 89% accurate. 
+
+```{r}
+ldafit1 = lda(mar~tts+Flights, data = astro)
+
+
+ldafit1
+fittedclasslda1 = predict(ldafit1,data = astro)$class
+table(astro$mar,fittedclasslda1)
+
+
+```
+
+I tried a simpler model that only uses the number of Minutes in space. This produced the same accuracy as before when predicting. 
+
+```{r}
+ldafit2 = lda(mar~tts, data = astro)
+ldafit2
+fittedclasslda2 = predict(ldafit2,data = astro)$class
+table(astro$mar,fittedclasslda2)
+```
+LDA model 3 adds in children.
+```{r}
+ldafit3 = lda(mar~tts+Flights + Children, data = astro)
+
+
+ldafit3
+fittedclasslda3 = predict(ldafit3,data = astro)$class
+table(astro$mar,fittedclasslda3)
+```
+
+
+
+Here I try the QDA model to properly classify the astronaut data based on their marital status. 
+Model 1 is tts and FLights
+Model 2 is tts
+Model 3 is tts Flights, Children
+
+```{r}
+qdafit1 = qda(mar~ tts + Flights, data = astro)
+astro%>%
+  group_by(mar)%>%
+  summarize(sdtts = sd(tts), sdFlights = sd(Flights))
+
+fittedclassqda1 = predict(qdafit1,data = astro)$class
+table(astro$mar, fittedclassqda1)
+diag(table(astro$mar,fittedclassqda1))
+```
+
+
+```{r}
+qdafit2 = qda(mar~ tts, data = astro)
+
+fittedclassqda2 = predict(qdafit2,data = astro)$class
+table(astro$mar, fittedclassqda2)
+diag(table(astro$mar,fittedclassqda2))
+```
+The QDA when using the the predictors: Children, Flights, TTS, actually does worse. Adding in too many variables seems to have reduced accuracy. It correctly predicted 405/470. That is 86% accuracy. This is likely due to the model better predicting the factor level Single. Single people are less likely to have children. The model previously did not cassify anyone as single when trying to classify them. Now it correctly classified 15/20 people in the data set. 
+
+```{r}
+qdafit3 = qda(mar~ tts + Flights +Children, data = astro)
+
+
+fittedclassqda3 = predict(qdafit3,data = astro)$class
+table(astro$mar, fittedclassqda3)
+diag(table(astro$mar,fittedclassqda3))
+
+```
+
+
+
+Using the higher accuracy QDA model, I used 10 fold cross validation to test and see what level of accuracy we can predict the marital status. The real goal is to predict the likely hood of divorce. 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE}
+
+
+n = 470
+nfolds = 10
+groups = rep(1:nfolds,length=n)
+set.seed(4)
+cvgroups = sample(groups,n)
+
+Model3predCVclass = factor(rep(NA,n),levels=c("0", "1","2","3"))
+Model4predCVclass = factor(rep(NA,n),levels=c("0", "1","2","3"))
+
+for (ii in 1: nfolds) { 
+  groupii = (cvgroups == ii)
+  trainset = astro[!groupii,]
+
+  testset = astro[groupii, ]
+  qdafit3 = qda(mar ~ tts + Flights, data=trainset)
+  Model3predCVclass[groupii] = predict(qdafit3, newdata=testset)$class        
+  qdafit4 = qda(mar~tts, data=trainset)
+  Model4predCVclass[groupii] = predict(qdafit4, newdata=testset)$class        
+}
+print("Model 1 Error")
+CVmodel3 = sum(Model3predCVclass!= astro$mar)/n; CVmodel3
+print("Model 2 Error")
+CVmodel4 = sum(Model4predCVclass!= astro$mar)/n; CVmodel4
+
+
+```
+The model shows a low cross validation error of .106 This would normally be good but in our data set, we still do not accurately predict the divorces that will take place. We are merely accurately predicting that married people will continue to be married. 
+
+We did not build a model to accurately predict divorces among astronauts based on their time in space. We did however find that astronauts are much more likely to stay together compared to the normal population. The normal population experiences a divorce rate of 40 -50%. The astronaut population experiences 5.2 % divorce rate. This small portion of the overall population makes it hard for the models to predict accurately when the person will get divorced. 
+
+The hypothesis was stress from being an astronaut and time in space would lead to a divorce. 
+
+We reject the null hypothesis. Time in space is not significantly correlated with divorce. 
+
+We have enough evidence to prove the disprove the common myth that astronauts have a higher divorce rate due to stress of the job and time spent in space. 
+

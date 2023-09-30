@@ -1,0 +1,495 @@
+Surname	Given names	Date of Birth	Place of Birth	Selection	Position	Status	Flights	d	h	m	Marital status	Children	Nation	Date of Death	Place of Death
+Abrahamson	James Alan "Abe"	19.05.1933	Williston / North Dakota	30.06.1967	PLT	Ret. 10.06.1969	 	0	0	0	married	five	USA	 	 
+Acaba	Joseph Michael	17.05.1967	Inglewood / California	06.05.2004	MSP	active	3	306	0	34	 	 	USA	 	 
+Acton	Loren Wilber	07.03.1936	Lewistown / Montana	09.08.1978	PSP	Ret. 06.08.1985	1	7	22	45	married	two	USA	 	 
+Adams	Michael James "Mike"	05.05.1930	Sacramento / California	12.11.1965	PLT	Ret. 20.07.1966	 	0	0	0	married	three	USA	15.11.1967	Edwards AFB / California
+Adamson	James Craig	03.03.1946	Warsaw / New York	23.05.1984	MSP	Ret. ??.08.1992	2	13	22	21	married	three	USA	 	 
+Akers	Thomas Dale	20.05.1951	St. Louis / Missouri	05.06.1987	MSP	Ret. 01.08.1997	4	33	22	43	married	two	USA	 	 
+Aldridge	Edward Cleveland, Jr. "Pete"	18.08.1938	Houston / Texas	??.08.1985	PSP	Ret. ??.??.1986	 	0	0	0	married	four	USA	 	 
+Aldrin	Edwin Eugene "Buzz"	20.01.1930	Montclair / New Jersey	17.10.1963	PLT	Ret. 01.07.1971	2	12	1	52	married	three	USA	 	 
+Allen	Andrew Michael "Andy"	04.08.1955	Philadelphia / Pennsylvania	05.06.1987	CDR	Ret. 01.10.1997	3	37	16	11	married	four	USA	 	 
+Allen	Joseph Percival IV "Joe"	27.06.1937	Crawfordsville / Indiana	04.08.1967	MSP	Ret. 01.07.1985	2	13	1	58	married	two	USA	 	 
+Altman	Scott Douglas "Scooter" "Bear"	15.08.1959	Lincoln / Illinois	08.12.1994	CDR	Ret. 03.09.2010	4	51	12	47	married	three	USA	 	 
+Anders	William Alison "Bill"	17.10.1933	Hongkong	17.10.1963	LMP	Ret. 01.09.1969	1	6	3	0	married	six	USA	 	 
+Anderson	Clayton Conrad	23.02.1959	Omaha / Nebraska	04.06.1998	MSP	Ret. ??.06.2011	2	166	21	10	married	two	USA	 	 
+Anderson	Lloyd Lynn, Jr.	28.02.1952	Humansville / Missouri	??.02.1988	PSP	Ret. ??.??.????	 	0	0	0	married	two	USA	 	 
+Anderson	Michael Philip	25.12.1959	Plattsburgh / New York	08.12.1994	MSP	died 01.02.2003	2	24	18	7	married	two	USA	01.02.2003	over Texas
+Ansari	Anousheh	12.09.1966	Tehran / Iran	??.03.2006	UKP	Ret. 29.09.2006	1	10	21	5	married	 	USA	 	 
+Antonelli	Dominic Anthony "Tony"	23.08.1967	Detroit / Michigan	26.07.2000	PLT	Ret. 10.07.2015	2	24	13	57	married	two	USA	 	 
+Apt	Jerome III "Jay"	28.04.1949	Springfield / Massachusetts	04.06.1985	MSP	Ret. 31.05.1997	4	35	7	9	married	two	USA	 	 
+Arceneaux	Hayley	04.12.1991	Baton Rouge / Louisiana	??.??.20??	Tourist	Ret. 18.09.2021	1	2	23	3	 	 	USA	 	 
+Archambault	Lee Joseph "Bru"	25.08.1960	Oak Park / Illinois	04.06.1998	CDR	Ret. ??.02.2012	2	26	15	40	married	three	USA	 	 
+Armor	James Burton, Jr.	25.09.1950	Oklahoma City / Oklahoma	??.09.1982	MSE	Ret. ??.??.1985	 	0	0	0	married	three	USA	 	 
+Armstrong	Neil Alden	05.08.1930	Wapakoneta / Ohio	17.09.1962	CDR	Ret. 01.08.1970	2	8	13	59	married	three	USA	25.08.2012	Cincinnati / Ohio
+Arnold	Richard Robert II "Ricky"	26.11.1963	Cheverly / Maryland	06.05.2004	MSP	Ret. ??.09.2020	2	209	13	29	married	two	USA	 	 
+Ashby	Jeffrey Shears "Bones"	16.06.1954	Dallas / Texas	08.12.1994	CDR	Ret. ??.06.2008	3	27	16	17	married	 	USA	 	 
+Aufderhaar	Grant Clifford	20.08.1948	Celina / Ohio	??.11.1985	PSP	Ret. ??.??.1986	 	0	0	0	married	two	USA	 	 
+Auñón-Chancellor	Serena Maria	09.04.1976	Indianapolis / Indiana	29.06.2009	MSP	Ret. ??.10.2019	1	196	17	50	married	one	USA	 	 
+Ayers	Nichole Stilwell	13.12.1988	San Diego, California	06.12.2021	PLT	active	 	0	0	0	married	 	USA	 	 
+Bagian	James Philipp	22.02.1952	Philadelphia / Pennsylvania	19.05.1980	MSP	Ret. ??.08.1995	2	14	1	53	married	four	USA	 	 
+Bailey	Palmer Kent	27.10.1947	Bismarck / North Dakota	25.06.1990	PSP	Ret. ??.??.1992	 	0	0	0	married	two	USA	 	 
+Baker	Ellen Louise Shulman	27.04.1953	Fayetteville / North Carolina	23.05.1984	MSP	Ret. ??.01.2012	3	28	14	31	married	two	USA	 	 
+Baker	Michael Allen	27.10.1953	Memphis / Tennessee	04.06.1985	CDR	Ret. ??.01.2008	4	40	4	58	married	two	USA	 	 
+Barratt	Michael Reed	16.04.1959	Vancouver / Washington	26.07.2000	MSP	active	2	211	11	46	married	five	USA	 	 
+Barrett	Barbara McConnell	26.12.1950	Indiana County / Pennsylvania	??.06.2009	UKP	Ret. 11.10.2009	 	0	0	0	married	two	USA	 	 
+Barron	Kayla Sax	19.09.1987	Pocatello / Idaho	07.06.2017	PLT	active	1	176	2	39	married	 	USA	 	 
+Barry	Daniel Thomas	30.12.1953	Norwalk / Connecticut	31.03.1992	MSP	Ret. ??.04.2005	3	30	14	25	married	two	USA	 	 
+Bartoe	John-David Francis	17.11.1944	Abington / Pennsylvania	09.08.1978	PSP	Ret. 06.08.1985	1	7	22	45	married	three	USA	 	 
+Bassett	Charles Arthur II "Charlie"	30.12.1931	Dayton / Ohio	17.10.1963	PLT	died 28.02.1966	 	0	0	0	married	two	USA	28.02.1966	St. Louis / Missouri
+Bean	Alan LaVern	15.03.1932	Wheeler / Texas	17.10.1963	LMP	Ret. 26.02.1981	2	69	15	45	married	two	USA	26.05.2018	Houston / Texas
+Bechis	Kenneth Paul	22.07.1949	Boston / Massachusetts	??.07.1987	PSP	Ret. ??.09.1990	 	0	0	0	married	two	USA	 	 
+Behnken	Robert Louis	28.07.1970	Creve Coeur / Missouri	26.07.2000	MSP	active	3	93	11	42	married	one	USA	 	 
+Belt	Michael Eugene	09.09.1957	Syracuse / New York	??.09.1988	PSP	Ret. 01.12.1991	 	0	0	0	married	two	USA	 	 
+Berríos	Marcos Gabriel	??.01.1984	Fort Campbell, Tennessee	06.12.2021	PLT	active	 	0	0	0	 	 	USA	 	 
+Binnie	William Brian	??.??.1953 (?)	West Lafayette / Indiana	??.??.????	PLT	Ret. ??.??.20??	 	0	0	0	married	three	USA	 	 
+Birch	Christina	17.11.1986	Mesa, Arizona	06.12.2021	PLT	 	 	0	0	0	 	 	USA	 	 
+Blaha	John Elmer	26.08.1942	San Antonio / Texas	19.05.1980	CDR	Ret. 26.09.1997	5	161	2	45	married	three	USA	 	 
+Bloomfield	Michael John "Bloomer"	16.03.1959	Flint / Michigan	08.12.1994	CDR	Ret. 13.07.2007	3	32	10	59	married	two	USA	 	 
+Bluford	Guion Stewart, Jr. "Guy"	22.11.1942	Philadelphia / Pennsylvania	16.01.1978	MSP	Ret. 15.06.1993	4	28	16	33	married	two	USA	 	 
+Bobko	Karol Joseph "Bo"	23.12.1937	New York City / New York	30.06.1966	CDR	Ret. 01.01.1989	3	16	2	3	married	two	USA	 	 
+Boe	Eric Allen	01.10.1964	Miami / Florida	26.07.2000	PLT	active	2	28	15	33	married	two	USA	 	 
+Boesen	Dennis Lee "Denny"	09.08.1942	Howard County / Nebraska	??.07.1987	PSP	Ret. ??.09.1990	 	0	0	0	married	two	USA	 	 
+Bolden	Charles Frank, Jr. "Charlie"	19.08.1946	Columbia / South Carolina	19.05.1980	CDR	Ret. 27.06.1994	4	28	8	37	married	two	USA	 	 
+Booen	Michael Warren	30.05.1957	Malmstrom AFB / Montana	??.09.1982	MSE	Ret. ??.??.1987	 	0	0	0	married	two	USA	 	 
+Borman	Frank Frederick II	14.03.1928	Gary / Indiana	17.09.1962	CDR	Ret. 01.07.1970	2	19	21	35	widowed	two	USA	 	 
+Bowen	Stephen Gerard	13.02.1964	Cohasset / Massachusetts	26.07.2000	MSP	active	3	40	10	1	married	three	USA	 	 
+Bowersox	Kenneth Dwane "Sox"	14.11.1956	Portsmouth / Virginia	05.06.1987	CDR	Ret. 30.09.2006	5	211	14	11	married	three	USA	 	 
+Brady	Charles Eldon, Jr.	12.08.1951	Pinehurst / North Carolina	31.03.1992	MSP	Ret. 14.08.2002	1	16	21	47	divorced	one	USA	23.07.2006	Orcas Island / Washington
+Brand	Vance DeVoe	09.05.1931	Longmont / Colorado	04.04.1966	CDR	Ret. ??.04.1992	4	31	2	2	married	six	USA	 	 
+Brandenstein	Daniel Charles	17.01.1943	Watertown / Wisconsin	16.01.1978	CDR	Ret. 01.10.1992	4	32	21	3	married	one	USA	 	 
+Bresnik	Randolph James	11.09.1967	Fort Knox / Kentucky	06.05.2004	PLT	active	2	149	12	12	married	two	USA	 	 
+Bridges	Roy Dubard, Jr.	19.07.1943	Atlanta / Georgia	19.05.1980	PLT	Ret. ??.03.1986	1	7	22	45	married	two	USA	 	 
+Brown	Curtis Lee, Jr. "Curt"	11.03.1956	Elizabethtown / North Carolina	05.06.1987	CDR	Ret. 31.12.1999	6	57	15	3	married	one	USA	 	 
+Brown	David McDowell	16.04.1956	Arlington / Virginia	01.05.1996	MSP	died 01.02.2003	1	15	22	20	single	 	USA	01.02.2003	over Texas
+Brown	Mark Neil	18.11.1951	Valparaiso / Indiana	23.05.1984	MSP	Ret. ??.07.1993	2	10	9	27	married	two	USA	 	 
+Buchli	James Frederick	20.06.1945	New Rockford / North Dakota	16.01.1978	MSP	Ret. ??.08.1992	4	20	10	24	married	two	USA	 	 
+Buckey	Jay Clark, Jr.	06.06.1956	New York City / New York	??.12.1991	PSP	Ret. 03.05.1998	1	15	21	50	married	three	USA	 	 
+Bull	John Sumter	25.09.1934	Memphis / Tennessee	04.04.1966	PLT	Ret. 16.07.1968	 	0	0	0	married	three	USA	11.08.2008	South Lake Tahoe / California
+Burbank	Daniel Christopher	27.07.1961	Manchester / Connecticut	01.05.1996	MSP	Ret. 29.06.2018	3	188	21	47	married	two	USA	 	 
+Burnham	Deniz Melissa	??.10.1985	Incirlik Air Base, Adana, Turky	06.12.2021	PLT	active	 	0	0	0	 	 	USA	 	 
+Bursch	Daniel Wheeler	25.07.1957	Bristol / Pennsylania	17.01.1990	MSP	Ret. ??.06.2005	4	226	22	14	married	four	USA	 	 
+Butterworth	Louis William	17.07.1948	Casper / Wyoming	05.07.1984	PSP	Ret. 28.01.1986	 	0	0	0	married	 	USA	 	 
+Cabana	Robert Donald	23.01.1949	Minneapolis / Minnesota	04.06.1985	CDR	Ret. ??.04.2004	4	37	22	42	married	three	USA	 	 
+Cagle	Yvonne Darlene	24.04.1959	West Point / New York	01.05.1996	MSP	Ret. ??.06.2008	 	0	0	0	divorced	one	USA	 	 
+Caldeiro	Fernando "Frank"	12.06.1958	Buenos Aires / Argentina	01.05.1996	MSP	died 03.10.2009	 	0	0	0	married	two	USA	03.10.2009	League City / Texas
+Camarda	Charles Joseph	08.05.1952	Queens / New York	01.05.1996	MSP	Ret. ??.06.2006	1	13	21	32	married	four	USA	 	 
+Cameron	Kenneth Donald	29.11.1949	Cleveland / Ohio	23.05.1984	CDR	Ret. 05.08.1996	3	23	10	10	married	two	USA	 	 
+Cardman	Zena Maria	26.10.1988	Urbana / Illinois	07.06.2017	PLT	aktiv	 	0	0	0	 	 	USA	 	 
+Carey	Duane Gene "Digger"	30.04.1957	St. Paul / Minnesota	01.05.1996	PLT	Ret. ??.10.2004	1	10	22	10	married	two	USA	 	 
+Carpenter	Malcolm Scott	01.05.1925	Boulder / Colorado	02.04.1959	PLT	Ret. 10.08.1967	1	0	4	56	divorced	eight	USA	10.10.2013	Denver / Colorado
+Carr	Gerald Paul "Jerry"	22.08.1932	Denver / Colorado	04.04.1966	CDR	Ret. 25.06.1977	1	84	1	15	married	seven	USA	 	 
+Carretto	Joseph Anthony, Jr.	30.01.1957	West Hampstead / New York	??.09.1985	MSE	Ret. ??.07.1988	 	0	0	0	 	 	USA	 	 
+Carter	Manley Lanier, Jr. "Sonny"	15.08.1947	Macon / Georgia	23.05.1984	MSP	died 05.04.1991	1	5	0	6	married	two	USA	05.04.1991	Brunswick / Georgia
+Casper	John Howard	09.07.1943	Greenville / South Carolina	23.05.1984	CDR	Ret. ??.??.1997	4	34	9	51	married	four	USA	 	 
+Cassada	Josh Aaron	18.07.1973	San Diego / California	17.06.2013	PLT	active	 	0	0	0	married	two	USA	 	 
+Casserino	Frank James, Jr.	21.07.1955	Bronx / New York	??.08.1979	MSE	Ret. ??.05.1985	 	0	0	0	married	two	USA	04.01.2021	Colorado Springs / Colorado
+Cassidy	Christopher John "Chris"	04.01.1970	Salem / Massachusetts	06.05.2004	MSP	Ret. 28.05.2021	3	377	17	49	married	five	USA	 	 
+Cenker	Robert Joseph, Jr.	05.11.1948	Uniontown / Pennsylvania	08.05.1985	PSP	Ret. 18.01.1986	1	6	2	3	married	three	USA	 	 
+Cernan	Eugene Andrew	14.03.1934	Chicago / Illinois	17.10.1963	CDR	Ret. 01.07.1976	3	23	14	15	married	three	USA	16.01.2017	Houston / Texas
+Chaffee	Roger Bruce	15.02.1935	Grand Rapids / Michigan	17.10.1963	PLT	died 27.01.1967	 	0	0	0	married	two	USA	27.01.1967	Cape Canaveral / Florida
+Chamitoff	Gregory Errol	06.08.1962	Montreal / Canada	04.06.1998	MSP	Ret. 30.09.2013	2	198	18	0	married	two	USA	 	 
+Chang-Diaz	Franklin Ramon	05.04.1950	San José / Costa Rica	19.05.1980	MSP	Ret. 08.07.2005	7	66	18	15	married	four	USA	 	 
+Chapman	Philip Kenyon	05.03.1935	Melbourne / Australia	04.08.1967	PLT	Ret. ??.07.1972	 	0	0	0	married	two	USA	05.04.2021	Scottsdale / Arizona
+Chappell	Charles Richard	02.06.1943	Greenville / South Carolina	27.12.1985	PSP	Ret. 02.04.1992	 	0	0	0	married	one	USA	 	 
+Chari	Raja Jon Vurputoor "Grinder"	24.06.1977	Milwaukee / Wisconsin	07.06.2017	PLT	active	1	176	2	39	married	three	USA	 	 
+Chawla	Kalpana	17.03.1962	Karnal / India	08.12.1994	MSP	died 01.02.2003	2	31	14	54	married	 	USA	01.02.2003	over Texas
+Chiao	Leroy	28.08.1960	Milwaukee / Wisconsin	17.01.1990	MSP	Ret. 31.10.2005	4	229	8	39	married	 	USA	 	 
+Chilton	Kevin Patrick "Chilly"	03.11.1954	Los Angeles / California	05.06.1987	CDR	Ret. ??.08.1998	3	29	8	22	married	four	USA	 	 
+Clark	Laurel Blair Salton	10.03.1961	Ames / Iowa	01.05.1996	MSP	died 01.02.2003	1	15	22	20	married	one	USA	01.02.2003	over Texas
+Cleave	Mary Louise	05.02.1947	Southampton / New York	19.05.1980	MSP	Ret. ??.05.1990	2	10	22	0	single	 	USA	 	 
+Clegg	Robert Henry	23.08.1946	Boston / Massachusetts	25.06.1990	PSP	Ret. ??.??.1992	 	0	0	0	 	 	USA	 	 
+Clifford	Michael Richard Uram "Rich"	13.10.1952	Norton AFB / California	17.01.1990	MSP	Ret. 06.01.1997	3	27	18	24	married	two	USA	28.12.2021	North Myrtle Beach, South Carolina
+Coats	Michael Lloyd	16.01.1946	Sacramento / California	16.01.1978	CDR	Ret. 01.08.1991	3	19	7	56	married	two	USA	 	 
+Cockrell	Kenneth Dale "Taco"	09.04.1950	Austin / Texas	17.01.1990	CDR	Ret. ??.02.2006	5	64	12	24	married	two	USA	 	 
+Coleman	Catherine Grace "Cady"	14.12.1960	Charleston / South Carolina	31.03.1992	MSP	Ret. ??.07.2015	3	180	3	58	married	one	USA	 	 
+Collins	Eileen Marie "MOM"	19.11.1956	Elmira / New York	17.01.1990	CDR	Ret. 01.05.2006	4	36	8	9	married	two	USA	 	 
+Collins	Michael	31.10.1930	Rom / Italy	17.10.1963	CMP	Ret. ??.01.1970	2	11	2	4	widowed	three	USA	28.04.2021	Naples / Florida
+Connor	Larry	07.01.1950	Albany / New York	??.??.20??	PLT	Ret. 25.04.2022	1	17	1	49	 	 	USA	 	 
+Conrad	Charles, Jr. "Pete"	02.06.1930	Philadelphia / Pennsylvania	17.09.1962	CDR	Ret. 01.02.1974	4	49	3	38	married	four	USA	08.07.1999	Ojai / California
+Cooper	Leroy Gordon, Jr. "Gordo"	06.03.1927	Shawnee / Oklahoma	02.04.1959	CDR	Ret. 01.07.1970	2	9	9	14	married	six	USA	04.10.2004	 
+Covey	Richard Oswalt	01.08.1946	Fayetteville / Arkansas	16.01.1978	CDR	Ret. 01.07.1994	4	26	21	9	married	two	USA	 	 
+Creamer	Timothy John "TJ"	15.11.1959	Ft. Huachuca / Arizona	04.06.1998	MSP	Ret. ??.05.2011	1	163	5	32	married	two	USA	 	 
+Creighton	John Oliver	28.04.1943	Orange / Texas	16.01.1978	CDR	Ret. 15.07.1992	3	16	20	24	married	 	USA	 	 
+Crews	Albert Hanlin, Jr.	23.03.1929	El Dorado / Arkansas	12.11.1965	PLT	Ret. 10.06.1969	 	0	0	0	married	three	USA	 	 
+Crippen	Robert Laurel "Crip"	11.09.1937	Beaumont / Texas	30.06.1966	CDR	Ret. 31.12.1991	4	23	13	47	married	three	USA	 	 
+Crombie	Robert Buck "Rob"	27.02.1954	Joliet / Illinois	??.09.1985	MSE	Ret. ??.07.1988	 	0	0	0	married	 	USA	 	 
+Crossfield	Albert Scott	02.10.1921	Berkeley / California	??.??.1958	PLT	Ret. 06.12.1960	 	0	0	0	married	six	USA	19.04.2006	near Ellijay / Georgia
+Crouch	Roger Keith	12.09.1940	Jamestown / Tennessee	11.01.1989	PSP	Ret. 17.07.1997	2	19	15	56	married	three	USA	 	 
+Culbertson	Frank Lee, Jr.	15.05.1949	Charleston / South Carolina	23.05.1984	CDR	Ret. 24.08.2002	3	143	14	50	married	five	USA	 	 
+Cunningham	Ronnie Walter "Walt"	16.03.1932	Creston / Iowa	17.10.1963	LMP	Ret. 01.08.1971	1	10	20	9	married	two	USA	 	 
+Cunningham	Stephen Lee	10.09.1945	Renton / Washington	05.07.1984	PSP	Ret. 28.01.1986	 	0	0	0	married	three	USA	 	 
+Curbeam	Robert Lee, Jr. "Beamer"	05.03.1962	Baltimore / Maryland	08.12.1994	MSP	Ret. 07.12.2007	3	37	14	41	married	two	USA	 	 
+Currie-Gregg	Nancy Jane Sherlock	29.12.1958	Wilmington / Delaware	17.01.1990	MSP	Ret. ??.??.2005	4	41	15	32	married	one	USA	 	 
+Dana	William Harvey "Bill"	03.11.1930	Pasadena / California	??.??.1965	PLT	Ret. 24.10.1968	 	0	0	0	married	four	USA	06.05.2014	Phoenix / Arizona
+Davis	Nancy Jan	01.11.1953	Cocoa Beach / Florida	05.06.1987	MSP	Ret. 21.06.1999	3	28	2	5	married	two	USA	 	 
+DeArmond	Frank Maxton	22.11.1954	Columbia / South Carolina	??.09.1985	MSE	Ret. ??.07.1988	 	0	0	0	married	two	USA	 	 
+Delaney	Luke Daniel	25.08.1979	Miami, Florida	06.12.2021	PLT	active	 	0	0	0	 	 	USA	 	 
+DeLucas	Lawrence James "Larry"	11.07.1950	Syracuse / New York	06.08.1990	PSP	Ret. 09.07.1992	1	13	19	30	married	three	USA	 	 
+Detroye	Jeffrey Eliot	14.01.1955	Alexandria / Virginia	??.08.1979	MSE	Ret. ??.08.1985	 	0	0	0	married	 	USA	 	 
+Dominick	Matthew Stuart	07.12.1981	Wheat Ridge / Colorado	07.06.2017	PLT	active	 	0	0	0	married	two	USA	 	 
+Douglas	André Maurice Baulding	??.12.1985	Miami, Florida	06.12.2021	PLT	active	 	0	0	0	 	 	USA	 	 
+Drew	Benjamin Alvin, Jr.	05.11.1962	Washington D.C.	26.07.2000	MSP	Ret. ??.10.2013	2	25	12	59	single	 	USA	 	 
+Duffy	Brian	20.06.1953	Boston / Massachusetts	04.06.1985	CDR	Ret. ??.04.2001	4	40	17	35	married	two	USA	 	 
+Duke	Charles Moss, Jr. "Chuck"	03.10.1935	Charlotte / North Carolina	04.04.1966	LMP	Ret. 01.01.1976	1	11	1	51	married	two	USA	 	 
+Dunbar	Bonnie Jeanne	03.03.1949	Sunnyside / Washington	19.05.1980	MSP	Ret. 30.09.2005	5	50	8	23	divorced	 	USA	 	 
+Dunlap	Alexander William	15.07.1960	Honolulu / Hawaii	??.03.1996	PSP	Ret. 03.05.1998	 	0	0	0	single	 	USA	 	 
+Durrance	Samuel Thornton	17.09.1943	Tallahassee / Florida	20.06.1984	PSP	Ret. 18.03.1995	2	25	14	13	married	two	USA	 	 
+Dutton	James Patrick, Jr.	20.11.1968	Eugene / Oregon	06.05.2004	PLT	Ret. ??.06.2012	1	15	2	47	married	four	USA	 	 
+Dyson	Esther	14.07.1951	Zurich / Switzerland	??.10.2008	UKP	Ret. 08.04.2009	 	0	0	0	 	 	USA	 	 
+Dyson	Tracy Caldwell	14.08.1969	Arcadia / California	04.06.1998	MSP	active	2	188	19	13	married	 	USA	 	 
+Edwards	Joe Frank, Jr.	03.02.1958	Richmond / Virginia	08.12.1994	PLT	Ret. 30.04.2000	1	8	19	47	married	one	USA	 	 
+Eisele	Donn Fulton	23.06.1930	Columbus / Ohio	17.10.1963	CMP	Ret. 01.06.1972	1	10	20	9	married	six	USA	02.12.1987	Tokyo / Japan
+England	Anthony Wayne	15.05.1942	Indianapolis / Indiana	04.08.1967	MSP	Ret. 31.08.1988	1	7	22	45	married	two	USA	 	 
+Engle	Joe Henry	26.08.1932	Dickinson County / Kansas	04.04.1966	CDR	Ret. 30.11.1986	2	9	8	30	married	two	USA	 	 
+Epps	Jeanette Jo	03.11.1970	Syracuse / New York	29.06.2009	MSP	active	 	0	0	0	 	 	USA	 	 
+Evans	Ronald Ellwin, Jr. "Ron"	10.11.1933	St. Francis / Kansas	04.04.1966	CMP	Ret. 15.03.1977	1	12	13	52	married	two	USA	07.04.1990	Scottsdale/ Arizona
+Fabian	John McCreary	28.01.1939	Goosecreek / Texas	16.01.1978	MSP	Ret. 31.12.1985	2	13	4	3	married	two	USA	 	 
+Ferguson	Christopher John	01.09.1961	Philadelphia / Pennsylvania	04.06.1998	CDR	Ret. 09.12.2011	3	40	10	3	married	three	USA	 	 
+Fettman	Martin Joseph	31.12.1956	Brooklyn / New York	??.12.1991	PSP	Ret. 01.11.1993	1	14	0	12	single	 	USA	 	 
+Feustel	Andrew Jay "Drew"	25.08.1965	Lancaster / Pennsylvania	26.07.2000	MSP	active	3	225	9	15	married	two	USA	 	 
+Fincke	Edward Michael "Mike"	14.03.1967	Pittsburgh / Pennsylvania	01.05.1996	MSP	active	3	381	15	7	married	three	USA	 	 
+Finley	John Lawrence "Jack"	22.12.1935	Winchester / Massachusetts	12.11.1965	PLT	Ret. ??.04.1968	 	0	0	0	divorced	two	USA	19.09.2006	Memphis / Tennessee
+Fischer	Jack David "2fish"	23.01.1974	Louisville / Colorado	29.06.2009	PLT	Ret. 31.05.2018	1	135	18	8	married	two	USA	 	 
+Fisher	Anna Lee Tingle	24.08.1949	St. Albans / New York	16.01.1978	MSP	Ret. ??.06.2006	1	7	23	44	divorced	two	USA	 	 
+Fisher	William Frederick	01.04.1946	Dallas / Texas	19.05.1980	MSP	Ret. 31.01.1991	1	7	2	17	married	two	USA	 	 
+Foale	Colin Michael	06.01.1957	Louth / England	05.06.1987	MSP	Ret. ??.08.2013	6	373	18	15	married	two	USA	 	 
+Ford	Kevin Anthony	07.07.1960	Portland / Indiana	26.07.2000	PLT	Ret. ??.01.2014	2	157	13	8	married	two	USA	 	 
+Foreman	Michael James	29.03.1957	Columbus / Ohio	04.06.1998	MSP	Ret. ??.12.2010	2	26	13	27	married	three	USA	 	 
+Forrester	Patrick Graham	31.03.1957	El Paso / Texas	01.05.1996	MSP	Ret. ??.08.2011	3	39	14	16	married	two	USA	 	 
+Fossum	Michael Edward	19.12.1957	Sioux Falls / South Dakota	04.06.1998	MSP	Ret. 07.01.2017	3	193	19	1	married	four	USA	 	 
+Freeman	Theodore Cordy "Ted"	18.02.1930	Haverford / Pennsylvania	17.10.1963	PLT	died 31.10.1964	 	0	0	0	married	one	USA	31.10.1964	Ellington AFB / Texas
+Frick	Stephen Nathaniel	30.09.1964	Pittsburgh / Pennsylvania	01.05.1996	CDR	Ret. ??.10.2010	2	23	14	3	married	 	USA	 	 
+Fullerton	Charles Gordon	11.10.1936	Rochester / New York	30.06.1966	CDR	Ret. ??.10.1986	2	15	22	50	married	two	USA	21.08.2013	Lancaster / California
+Gaffney	Francis Andrew "Drew"	09.06.1946	Carlsbad / New Mexico	09.01.1984	PSP	Ret. 14.06.1991	1	9	2	14	married	two	USA	 	 
+Garan	Ronald John, Jr.	30.10.1961	Yonkers / New York	26.07.2000	PLT	Ret. ??.12.2012	2	177	23	54	married	three	USA	 	 
+Gardner	Dale Allan	08.11.1948	Fairmont / Minnesota	16.01.1978	MSP	Ret. ??.10.1986	2	14	0	52	married	two	USA	19.02.2014	Colorado Springs / Colorado
+Gardner	Guy Spence	06.01.1948	Alta Vista / Virginia	19.05.1980	PLT	Ret. ??.06.1991	2	13	8	10	married	three	USA	 	 
+Garn	Edwin Jacob "Jake"	12.10.1932	Richfield / Utah	09.11.1984	PSP	Ret. 19.04.1985	1	6	23	55	widowed	seven	USA	 	 
+Garriott	Owen Kay	22.11.1930	Enid / Oklahoma	28.06.1965	MSP	Ret. 01.08.1986	2	69	18	56	married	four	USA	15.04.2019	Huntsville / Alabama
+Garriott de Cayeux	Richard Allen	04.07.1961	Cambridge, England	??.09.2007	UKP	Ret. 24.10.2008	1	11	20	35	married	two	USA	 	 
+Gemar	Charles Donald "Sam"	04.08.1955	Yankton / South Dakota	04.06.1985	MSP	Ret. ??.??.1996	3	24	5	38	married	two	USA	 	 
+Gernhardt	Michael Landon	04.05.1956	Mansfield / Ohio	31.03.1992	MSP	Ret. ??.08.2001	4	43	6	59	married	 	USA	 	 
+Gibson	Edward George	08.11.1936	Buffalo / New York	28.06.1965	SPT	Ret. 01.11.1982	1	84	1	15	married	four	USA	 	 
+Gibson	Robert Lee "Hoot"	30.10.1946	Cooperstown / New York	16.01.1978	CDR	Ret. 15.11.1996	5	36	4	15	married	four	USA	 	 
+Gillis	Sarah	 	 	??.??.2022	Tourist	activ	 	0	0	0	 	 	USA	 	 
+Givens	Edward Galen, Jr.	05.01.1930	Quanah / Texas	04.04.1966	PLT	died 06.06.1967	 	0	0	0	married	three	USA	06.06.1967	Pearland / Texas
+Glenn	John Herschel, Jr.	18.07.1921	Cambridge / Ohio	02.04.1959	PSP	Ret. 07.11.1998	2	9	2	39	married	two	USA	08.12.2016	Columbus / Ohio
+Glover	Victor Jerome	30.04.1976	Pomona / California	17.06.2013	PLT	active	1	167	6	29	married	four	USA	 	 
+Godwin	Linda Maxine	02.07.1952	Cape Girardeau / Missouri	04.06.1985	MSP	Ret. ??.08.2010	4	38	6	12	widowed	two	USA	 	 
+Good	Michael Timothy "Bueno"	13.10.1962	Parma / Ohio	26.07.2000	MSP	Ret. ??.04.2012	2	24	16	5	married	three	USA	 	 
+Gordon	Henry Charles	23.12.1925	Valparaiso / Indiana	20.09.1962	PLT	Ret. 10.12.1963	 	0	0	0	married	four	USA	24.09.1996	Peoria / Arizona
+Gordon	Richard Francis, Jr. "Dick"	05.10.1929	Seattle / Washington	17.10.1963	CMP	Ret. 01.01.1972	2	13	3	53	widowed	six	USA	06.11.2017	San Marcos / California
+Gorie	Dominic Lee Pudwill	02.05.1957	Lake Charles / Louisiana	08.12.1994	CDR	Ret. 04.06.2010	4	48	15	18	married	two	USA	 	 
+Grabe	Ronald John	13.06.1945	New York City / New York	19.05.1980	CDR	Ret. 11.04.1994	4	26	3	38	married	three	USA	 	 
+Graveline	Duane Edgar	02.03.1931	Newport / Vermont	28.06.1965	PLT	Ret. 18.08.1965	 	0	0	0	married	five	USA	05.09.2016	Brevard county / Florida
+Gregory	Frederick Drew	07.01.1941	Washington D.C.	16.01.1978	CDR	Ret. ??.04.1993	3	18	23	4	married	two	USA	 	 
+Gregory	William George "Borneo"	14.05.1957	Lockport / New York	17.01.1990	PLT	Ret. 00.07.1999	1	16	15	8	married	two	USA	 	 
+Griggs	Stanley David	07.09.1939	Portland / Oregon	16.01.1978	MSP	died 17.06.1989	1	6	23	55	married	two	USA	17.06.1989	Earle / Arkansas
+Grissom	Virgil Ivan "Gus"	03.04.1926	Mitchell / Indiana	02.04.1959	CDR	died 27.01.1967	1	0	4	52	married	two	USA	27.01.1967	Cape Canaveral / Florida
+Grunsfeld	John Mace	10.10.1958	Chicago / Illinois	31.03.1992	MSP	Ret. 04.01.2010	5	58	15	0	married	two	USA	 	 
+Gutierrez	Sidney McNeill "Sid"	27.06.1951	Albuquerque / New Mexico	23.05.1984	CDR	Ret. 03.08.1994	2	20	8	3	married	three	USA	 	 
+Hague	Tyler Nicklaus "Nick"	25.09.1975	Belleville / Kansas	17.06.2013	PLT	active	1	202	15	45	married	two	USA	 	 
+Haise	Fred Wallace, Jr. "Freddo"	14.11.1933	Biloxi / Mississippi	04.04.1966	LMP	Ret. 29.06.1979	1	5	22	54	married	four	USA	 	 
+Halsell	James Donald, Jr.	29.09.1956	Monroe / Louisiana	17.01.1990	CDR	Ret. ??.11.2006	5	52	10	30	married	two	USA	 	 
+Ham	Kenneth Todd	12.12.1964	Plainfield / New Jersey	04.06.1998	CDR	Ret. 31.05.2012	2	25	12	41	married	two	USA	 	 
+Hamel	Michael Anthony	24.12.1950	Minneapolis / Minnesota	??.08.1979	MSE	Ret. ??.05.1985	 	0	0	0	married	two	USA	 	 
+Hammond	Lloyd Blaine, Jr.	16.01.1952	Savannah / Georgia	23.05.1984	PLT	Ret. 23.02.1998	2	19	6	11	married	one	USA	 	 
+Harbaugh	Gregory Jordan	15.04.1956	Cleveland / Ohio	05.06.1987	MSP	Ret. 30.03.2001	4	34	1	59	married	three	USA	 	 
+Harris	Bernard Anthony, Jr.	26.06.1956	Temple / Texas	17.01.1990	MSP	Ret. 15.04.1996	2	18	6	8	married	one	USA	 	 
+Hart	Terry Jonathan "T.J."	27.10.1946	Pittsburgh / Pennsylvania	16.01.1978	MSP	Ret. 15.06.1984	1	6	23	40	married	two	USA	 	 
+Hartsfield	Henry Warren, Jr. "Hank"	21.11.1933	Birmingham / Alabama	30.06.1966	CDR	Ret. ??.03.1988	3	20	2	50	married	two	USA	17.07.2014	Houston / Texas
+Hathaway	Jack Stewart	??.10.1982	South Windsor, Connecticut	06.12.2021	PLT	active	 	0	0	0	 	 	USA	 	 
+Hauck	Frederick Hamilton "Rick"	11.04.1941	Long Beach / California	16.01.1978	CDR	Ret. 03.04.1989	3	18	3	8	married	five	USA	 	 
+Hawker	John Edward "Hawk"	12.11.1954	Pana / Illinois	??.09.1988	PSP	Ret. 04.01.1994	 	0	0	0	married	 	USA	 	 
+Hawley	Steven Alan	12.12.1951	Ottawa / Kansas	16.01.1978	MSP	Ret. 27.02.2008	5	32	2	41	married	 	USA	 	 
+Helms	Susan Jane	26.02.1958	Charlotte / North Carolina	17.01.1990	MSP	Ret. 28.07.2002	5	210	23	3	single	 	USA	 	 
+Henize	Karl Gordon	17.10.1926	Cincinnati / Ohio	04.08.1967	MSP	Ret. ??.04.1986	1	7	22	45	married	four	USA	05.10.1993	Mt. Everest / Nepal
+Hennen	Thomas John	17.08.1952	Albany / Georgia	??.09.1988	PSP	Ret. 01.12.1991	1	6	22	50	married	six	USA	 	 
+Henricks	Terence Thomas "Tom"	05.07.1952	Bryan / Ohio	04.06.1985	CDR	Ret. 31.10.1997	4	42	18	37	married	three	USA	 	 
+Hernández	José Moreno	07.08.1962	French Camp / California	06.05.2004	MSP	Ret. ??.01.2011	1	13	20	53	married	five	USA	 	 
+Herres	Robert Tralles	01.12.1932	Denver / Colorado	30.06.1967	PLT	Ret. 10.06.1969	 	0	0	0	married	three	USA	24.07.2008	San Antonio / Texas
+Herrington	John Bennett	14.09.1958	Wetumka / Oklahoma	01.05.1996	MSP	Ret. 09.09.2005	1	13	18	47	married	two	USA	 	 
+Hieb	Richard James	21.09.1955	Jamestown / North Dakota	04.06.1985	MSP	Ret. 03.04.1995	3	31	22	34	married	two	USA	 	 
+Higbee	Terry Alan	03.12.1949	Cedar City / Utah	??.08.1979	MSE	Ret. ??.08.1985	 	0	0	0	single	five	USA	 	 
+Higginbotham	Joan Elizabeth Miller	03.08.1964	Chicago / Illinois	01.05.1996	MSP	Ret. 30.11.2007	1	12	20	44	divorced	 	USA	 	 
+Hilliard Robertson	Patricia Consolatrix	12.03.1963	Indiana / Pennsylvania	04.06.1998	MSP	died 24.05.2001	 	0	0	0	married	 	USA	24.05.2001	Houston / Texas
+Hilmers	David Carl	28.01.1950	Clinton / Iowa	19.05.1980	MSP	Ret. ??.??.1992	4	20	14	16	married	two	USA	 	 
+Hines	Robert Thomas "Farmer", Jr.	11.01.1975	Fayetteville / North Carolina	07.06.2017	PLT	active	1	0	0	0	married	three	USA	 	 
+Hire	Kathryn Patricia "Kay"	26.08.1959	Mobile / Alabama	08.12.1994	MSP	Ret. ??.03.2010	2	29	15	56	single	 	USA	 	 
+Hobaugh	Charles Owen "Scorch"	05.11.1961	Bar Harbor / Maine	01.05.1996	CDR	Ret. 23.09.2011	3	36	7	46	married	four	USA	 	 
+Hoburg	Warren Woodrow "Woody"	16.09.1985	Pittsburgh / Pennsylvania	07.06.2017	PLT	active	 	0	0	0	 	 	USA	 	 
+Hoernig	Otto William, Jr.	21.07.1938	Kansas City / Missouri	??.06.1984	PSP	Ret. ??.??.1986	 	0	0	0	married	two	USA	 	 
+Hoffman	Jeffrey Alan	02.11.1944	Brooklyn / New York	16.01.1978	MSP	Ret. ??.07.1997	5	50	11	53	married	two	USA	 	 
+Hoffpauir	Michael Edward	17.11.1957	Fort Smith / Arkansas	??.06.1990	PSP	Ret. ??.??.1992	 	0	0	0	married	three	USA	 	 
+Holder	Livingston Lionel, Jr. "Livvy"	29.09.1956	Detroit / Michigan	??.09.1982	MSE	Ret. ??.07.1988	 	0	0	0	married	two	USA	 	 
+Holmquest	Donald Lee	07.04.1939	Dallas / Texas	04.08.1967	PLT	Ret. ??.09.1973	 	0	0	0	married	one	USA	 	 
+Holt	Ray Glynn	28.11.1959	Plainview / Texas	20.06.1994	PSP	Ret. 05.11.1995	 	0	0	0	married	one	USA	 	 
+Hopkins	Michael Scott	28.12.1968	Lebanon / Missouri	29.06.2009	MSP	active	2	333	12	54	married	two	USA	 	 
+Horowitz	Scott Jay "Doc"	24.03.1957	Philadelphia / Pennsylvania	31.03.1992	CDR	Ret. ??.10.2004	4	47	10	38	married	three	USA	 	 
+Hughes-Fulford	Millie Elizabeth	21.12.1945	Mineral Wells / Texas	09.01.1984	PSP	Ret. 14.06.1991	1	9	2	14	widowed	one	USA	02.02.2021	San Francisco / California
+Hurley	Douglas Gerald	21.10.1966	Endicott / New York	26.07.2000	PLT	Ret. 16.07.2021	3	92	10	38	married	one	USA	 	 
+Husband	Rick Douglas	12.07.1957	Amarillo / Texas	08.12.1994	CDR	died 01.02.2003	2	25	17	33	married	two	USA	01.02.2003	over Texas
+Irwin	James Benson "Jim"	17.03.1930	Pittsburgh / Pennsylvania	04.04.1966	LMP	Ret. 31.07.1972	1	12	7	12	married	five	USA	08.08.1991	Glenwood City / Colorado
+Isaacman	Jared	11.02.1983	/ New Jersey	??.??.20??	Tourist	active	1	2	23	3	married	two	USA	 	 
+Ivins	Marsha Sue	15.04.1951	Baltimore / Maryland	23.05.1984	MSP	Ret. 31.12.2010	5	55	21	46	single	 	USA	 	 
+James	Larry Dean	08.08.1956	Bristol / Virginia	??.09.1982	MSE	Ret. ??.12.1987	 	0	0	0	married	two	USA	 	 
+Jarvis	Gregory Bruce	24.08.1944	Detroit / Michigan	05.07.1984	PSP	died 28.01.1986	 	0	0	0	married	three	USA	28.01.1986	Cape Canaveral / Florida
+Jemison	Mae Carol	17.10.1956	Decatur / Alabama	05.06.1987	MSP	Ret. 08.03.1993	1	7	22	30	divorced	 	USA	 	 
+Jernigan	Tamara Elizabeth "Tammy"	07.05.1959	Chattanooga / Tennessee	04.06.1985	MSP	Ret. 21.09.2001	5	63	1	24	married	 	USA	 	 
+Jett	Brent Ward, Jr.	05.10.1958	Pontiac / Michigan	31.03.1992	CDR	Ret. ??.11.2007	4	41	17	58	married	 	USA	 	 
+Johnson	Gregory Carl "Ray J"	30.07.1954	Seattle / Washington	04.06.1998	PLT	Ret. ??.??.20??	1	12	21	37	married	two	USA	 	 
+Johnson	Gregory Harold "Box"	12.05.1962	South Ruislip / United Kingdom	04.06.1998	PLT	Ret. ??.08.2013	2	31	11	49	married	three	USA	 	 
+Johnston	Mary Helen	17.09.1945	West Palm Beach / Florida	05.06.1983	PSP	Ret. 06.05.1985	 	0	0	0	married	 	USA	 	 
+Jones	Charles Edward "Chuck"	08.11.1952	Clinton / Indiana	??.09.1982	MSE	Ret. ??.01.1987	 	0	0	0	married	 	USA	11.09.2001	New York City
+Jones	Thomas David	22.01.1955	Baltimore / Maryland	17.01.1990	MSP	Ret. 07.09.2001	4	53	0	48	married	two	USA	 	 
+Joseph	Daryl James	17.12.1949	Albuquerque / New Mexico	??.08.1979	MSE	Ret. ??.08.1985	 	0	0	0	single	 	USA	 	 
+Kavandi	Janet Lynn	17.07.1959	Springfield / Missouri	08.12.1994	MSP	Ret. ??.??.2005	3	33	20	7	married	two	USA	 	 
+Kelly	James McNeal "Vegas"	14.05.1964	Burlington / Iowa	01.05.1996	PLT	Ret. ??.12.2010	2	26	17	21	married	four	USA	 	 
+Kelly	Mark Edward	21.02.1964	Orange / New Jersey	01.05.1996	CDR	Ret. 01.10.2011	4	54	2	2	married	two	USA	 	 
+Kelly	Scott Joseph	21.02.1964	Orange / New Jersey	01.05.1996	CDR	Ret. 01.04.2016	4	520	10	30	married	two	USA	 	 
+Kerwin	Joseph Peter	19.02.1932	Oak Park / Illinois	28.06.1965	SPT	Ret. 31.03.1987	1	28	0	50	married	three	USA	 	 
+Kim	Jonathan Yong "Jonny"	05.02.1984	Los Angeles / California	07.06.2017	PLT	active	 	0	0	0	 	 	USA	 	 
+Kimbrough	Robert Shane	04.06.1967	Killeen / Texas	06.05.2004	MSP	active	3	388	17	28	married	three	USA	 	 
+Knight	William John "Pete"	18.11.1929	Noblesville / Indiana	20.09.1962	PLT	Ret. 10.12.1963	 	0	0	0	married	seven	USA	07.05.2004	Duarte / California
+Koch	Christina Hammock "Nana"	29.01.1979	Grand Rapids / Michigan	17.06,2013	PLT	active	1	328	13	58	married	 	USA	 	 
+Konrad	John Harrison	12.03.1949	Pontiac / Illinois	05.07.1984	PSP	Ret. ??.??.1988	 	0	0	0	married	three	USA	 	 
+Kopra	Timothy Lennart	09.04.1963	Austin / Texas	26.07.2000	MSP	Ret. 28.06.2018	2	244	1	1	married	two	USA	 	 
+Koszelak	Stanley Norbert, Jr.	20.10.1953	Oklahoma City / Oklahoma	04.10.1989	PSP	Ret. 20.02.1992	 	0	0	0	married	two	USA	 	 
+Kregel	Kevin Richard	16.09.1956	New York City / New York	31.03.1992	CDR	Ret. 27.06.2002	4	52	18	19	married	four	USA	 	 
+Kulin	Robb Michael	07.12.1983	Anchorage / Alaska	07.06.2017	PLT	Ret. 31.08.2018	 	0	0	0	 	 	USA	 	 
+LaComb	Maureen Cecil	16.11.1956	Poughkeepsie / New York	??.09.1982	MSE	Ret. ??.09.1990	 	0	0	0	married	 	USA	 	 
+Lampton	Michael Logan	01.03.1941	Williamsport / Pennsylvania	18.05.1978	PSP	Ret. ??.03.1992	 	0	0	0	married	one	USA	 	 
+Lawrence	Robert Henry, Jr.	02.10.1935	Chicago / Illinois	30.06.1967	PLT	died 08.12.1967	 	0	0	0	married	one	USA	08.12.1967	Edwards AFB / California
+Lawrence	Wendy Barrien	02.07.1959	Jacksonville / Florida	31.03.1992	MSP	Ret. ??.06.2006	4	51	3	54	married	 	USA	 	 
+Lawyer	Richard Earl	08.11.1932	Los Angeles / California	12.11.1965	PLT	Ret. 10.06.1969	 	0	0	0	married	five	USA	12.11.2005	Palmdale / California
+Lee	Mark Charles	14.08.1952	Viroqua / Wisconsin	23.05.1984	MSP	Ret. 01.07.2001	4	32	21	52	married	two	USA	 	 
+Leestma	David Cornell	06.05.1949	Muskegon / Michigan	19.05.1980	MSP	Ret. ??.12.1992	3	22	4	32	married	six	USA	 	 
+Lenoir	William Benjamin "Bill"	14.03.1939	Miami / Florida	04.08.1967	MSP	Ret. 00.10.1984	1	5	2	14	married	two	USA	26.08.2010	Albuquerque / New Mexico
+Leslie	Fred Weldon	19.12.1951	Ancon / Panama	20.06.1994	PSP	Ret. 05.11.1995	1	15	21	52	single	 	USA	 	 
+Lewis	Fred Parker, Jr.	02.03.1949	Cottonwood / Arizona	??.11.1985	PSP	Ret. ??.??.1986	 	0	0	0	 	 	USA	 	 
+Lichtenberg	Byron Kurt	19.02.1948	Stroudsburg / Pennsylvania	18.05.1978	PSP	Ret. 02.04.1992	2	19	5	56	married	five	USA	 	 
+Lind	Don Leslie	18.05.1930	Midvale / Utah	04.04.1966	MSP	Ret. ??.04.1986	1	7	0	8	married	seven	USA	 	 
+Lindgren	Kjell Norwood	23.01.1973	Taipei, Taiwan	29.06.2009	MSP	active	2	141	16	9	married	three	USA	 	 
+Lindsey	Steven Wayne	24.08.1960	Arcadia / California	08.12.1994	CDR	Ret. 05.07.2011	5	62	22	33	married	three	USA	 	 
+Linenger	Jerry Michael	16.01.1955	Mt. Clemens / Michigan	31.03.1992	MSP	Ret. 23.02.1998	2	143	2	49	married	four	USA	 	 
+Linnehan	Richard Michael	19.09.1957	Lowell / Massachusetts	31.03.1992	MSP	Ret. ??.12.2010	4	59	11	58	single	 	USA	 	 
+Linteris	Gregory Thomas	04.10.1957	Demarest / New Jersey	??.02.1996	PSP	Ret. 17.07.1997	2	19	15	56	single	 	USA	 	 
+Llewellyn	John Anthony	22.04.1933	Cardiff / Wales	04.08.1967	PLT	Ret. 06.09.1968	 	0	0	0	married	three	USA	02.07.2013	Madeira Beach / Florida
+Lockhart	Paul Scott "Paco"	28.04.1956	Amarillo / Texas	01.05.1996	PLT	Ret. ??.??.2005	2	27	15	22	married	two	USA	 	 
+Lopez-Alegria	Michael Eladio "LA"	30.05.1958	Madrid / Spain	31.03.1992	MSP	Ret. ??.03.2012	5	275	0	32	married	one	USA	 	 
+Loria	Christopher Joseph "Gus"	09.07.1960	Newton / Massachusetts	01.05.1996	PLT	Ret. ??.??.2005	 	0	0	0	married	three	USA	 	 
+Lounge	John Michael	28.06.1946	Denver / Colorado	19.05.1980	MSP	Ret. 20.06.1991	3	20	2	23	married	three	USA	01.03.2011	Houston / Texas
+Lousma	Jack Robert	29.02.1936	Grand Rapids / Michigan	04.04.1966	CDR	Ret. 01.10.1983	2	67	11	13	married	four	USA	 	 
+Love	Stanley Glen	08.06.1965	San Diego / California	04.06.1998	MSP	Ret. ??.11.2011	1	12	18	21	married	two	USA	 	 
+Lovell	James Arthur, Jr. "Shaky"	25.03.1928	Cleveland / Ohio	17.09.1962	CDR	Ret. 01.03.1973	4	29	19	3	married	four	USA	 	 
+Low	George David	19.02.1956	Cleveland / Ohio	23.05.1984	MSP	Ret. 20.02.1996	3	29	18	5	married	three	USA	15.03.2008	Reston / Virginia
+Lu	Edward Tsang	01.07.1963	Springfield / Massachusetts	08.12.1994	MSP	Ret. ??.08.2007	3	205	23	16	married	 	USA	 	 
+Lucid	Shannon Matilda Wells	14.01.1943	Shanghai / China	16.01.1978	MSP	Ret. ??.01.2012	5	223	2	50	married	three	USA	 	 
+Lydon	Malcolm Webb	03.06.1946	Hartford / Connecticut	??.08.1979	MSE	Ret. ??.08.1986	 	0	0	0	married	one	USA	 	 
+Macleay	Lachlan "Mac"	13.06.1931	St. Louis / Missouri	12.11.1965	PLT	Ret. 10.06.1969	 	0	0	0	married	three	USA	 	 
+Magilton	Gerard Edward "Jerry"	07.05.1942	Philadelphia / Pennsylvania	08.04.1985	PSP	Ret. 18.01.1986	 	0	0	0	married	four	USA	 	 
+Magnus	Sandra Hall	30.10.1964	Belleville / Illinois	01.05.1996	MSP	Ret. 21.10.2012	3	157	8	43	divorced	 	USA	 	 
+Mann	Nicole Victoria Aunapu "Duke"	27.06.1977	Petaluma / California	17.06.2013	PLT	active	 	0	0	0	married	one	USA	 	 
+Mantz	Michael Ray	16.02.1953	Pensacola / Florida	??.09.1982	MSE	Ret. ??.??.1987	 	0	0	0	married	one	USA	 	 
+Marshburn	Thomas Henry "Tom"	29.08.1960	Statesville / North Carolina	06.05.2004	MSP	active	3	337	9	42	married	one	USA	 	 
+Massimino	Michael James	19.08.1962	Oceanside / New York	01.05.1996	MSP	Ret. ??.03.2012	2	23	19	47	married	two	USA	 	 
+Mastracchio	Richard Alan "Rick"	11.02.1960	Waterbury / Connecticut	01.05.1996	MSP	Ret. ??.07.2015	4	227	13	36	married	three	USA	 	 
+Matthiesen	David Henry	31.08.1958	Blue Island / Illinois	20.06.1994	PSP	Ret. 05.11.1995	 	0	0	0	married	one	USA	 	 
+Mattingly	Thomas Kenneth II "Ken"	17.03.1936	Chicago / Illinois	04.04.1966	CDR	Ret. ??.06.1985	3	21	4	34	divorced	one	USA	 	 
+McArthur	Katherine Megan	30.08.1971	Honolulu / Hawaii	26.07.2000	MSP	active	2	212	15	21	married	one	USA	 	 
+McArthur	William Surles, Jr. "Bill"	26.07.1951	Laurinburg / North Carolina	17.01.1990	MSP	Ret. ??.01.2012	4	224	22	16	married	two	USA	 	 
+McAuliffe	Sharon Christa Corrigan	02.09.1948	Boston / Massachusetts	19.07.1985	PSP	died 28.01.1986	 	0	0	0	married	two	USA	28.01.1986	Cape Canaveral / Florida
+McBride	Jon Andrew	14.08.1943	Charleston / West Virginia	16.01.1978	PLT	Ret. 12.05.1989	1	8	5	23	married	four	USA	 	 
+McCandless	Bruce II	08.06.1937	Boston / Massachusetts	04.04.1966	MSP	Ret. 31.08.1990	2	13	0	31	married	two	USA	21.12.2017	Conifer / Colorado
+McClain	Anne Charlotte "Annimal"	07.06.1979	Spokane / Washington	17.06.2013	PLT	active	1	203	15	16	divorced	 	USA	 	 
+McCool	William Cameron "Willie"	23.09.1961	San Diego / California	01.05.1996	PLT	died 01.02.2003	1	15	22	20	married	three	USA	01.02.2003	over Texas
+McCulley	Michael James	04.08.1943	San Diego / California	23.05.1984	PLT	Ret. ??.10.1990	1	4	23	39	married	six	USA	 	 
+McDivitt	James Alton	10.06.1929	Chicago / Illinois	01.09.1972	CDR	Ret. 01.09.1972	2	14	2	56	married	six	USA	 	 
+McKay	John Barron	08.12.1922	Portsmouth / Virginia	??.??.1960	PLT	Ret. ??.??.1962	 	0	0	0	married	eight	USA	27.04.1975	Lancaster / California
+McMonagle	Donald Ray	14.05.1952	Flint / Michigan	05.06.1987	CDR	Ret. ??.07.1997	3	25	5	34	married	two	USA	 	 
+McNair	Ronald Erwin	21.10.1950	Lake City / South Carolina	16.01.1978	MSP	died 28.01.1986	1	7	23	15	married	two	USA	28.01.1986	Cape Canaveral / Florida
+Meade	Carl Joseph	16.11.1950	Chanute AFB / Illinois	04.06.1985	MSP	Ret. 29.02.1996	3	29	16	14	married	one	USA	 	 
+Meir	Jessica Ulrika "Goose"	15.07.1977	Caribou / Maine	17.06.2013	PLT	active	1	204	15	18	single	 	USA	 	 
+Melnick	Bruce Edward "Mel"	05.12.1949	New York City	05.06.1987	MSP	Ret. ??.07.1992	2	12	23	27	married	two	USA	 	 
+Melroy	Pamela Ann	17.09.1961	Palo Alto / California	08.12.1994	CDR	Ret. ??.07.2009	3	38	20	3	married	 	USA	 	 
+Melvill	Michael Winston "Mike"	30.11.1940	Johannesburg / South Africa	?	PLT	Ret. ??.10.2007	 	0	0	0	married	two	USA	 	 
+Melvin	Leland Devon "Lee"	15.02.1964	Lynchburg / Virginia	04.06.1998	MSP	Ret. ??.10.2010	2	23	13	37	single	 	USA	 	 
+Menon	Anna	 	 	??.??.2022	Tourist	active	 	0	0	0	married	two	USA	 	 
+Menon	Anil Samoilenko	15.10.1976	Minneapolis, Minnesota	06.12.2021	PLT	active	 	0	0	0	married	two	USA	 	 
+Metcalf-Lindenburger	Dorothy Marie "Dottie"	02.05.1975	Fort Collins / Colorado	06.05.2004	MSP	Ret. ??.04.2013	1	15	2	47	married	one	USA	 	 
+Michel	Frank Curtis "Curt"	05.06.1934	LaCrosse / Wisconsin	28.06.1965	PLT	Ret. 04.08.1969	 	0	0	0	married	two	USA	23.02.2015	Houston / Texas
+Mitchell	Edgar Dean "Ed"	17.09.1930	Hereford / Texas	04.04.1966	LMP	Ret. 01.10.1972	1	9	0	1	divorced	five	USA	 	 
+Moghbeli	Jasmin	24.06.1983	Bad Nauheim, Germany	07.06.2017	PLT	active	 	0	0	0	married	 	USA	 	 
+Morgan	Andrew Richard	05.02.1976	Morgantown / West Virginia	17.06.2013	PLT	active	1	271	12	47	married	four	USA	 	 
+Morgan	Barbara Radding "Barby"	28.11.1951	Fresno / California	19.07.1985	MSP	Ret. ??.08.2008	1	12	17	55	married	two	USA	 	 
+Morin	Lee Miller Emile	09.09.1952	Manchester / New Hampshire	01.05.1996	MSP	Ret. ??.??.2002	1	10	19	42	married	two	USA	 	 
+Mullane	Richard Michael "Mike"	10.09.1945	Wichita Falls / Texas	16.01.1978	MSP	Ret. 01.08.1990	3	14	20	20	married	three	USA	 	 
+Musgrave	Franklin Story	19.08.1935	Boston / Massachusetts	04.08.1967	MSP	Ret. 02.09.1997	6	53	9	55	married	six	USA	 	 
+Nagel	Steven Ray	27.10.1946	Canton / Illinois	16.01.1978	CDR	Ret. 28.02.1995	4	30	1	34	married	two	USA	21.08.2014	Columbia / Missouri
+Nelson	Clarence William, Jr. "Bill"	29.09.1942	Miami / Florida	09.11.1985	PSP	Ret. 18.01.1986	1	6	2	3	married	two	USA	 	 
+Nelson	George Driver "Pinky"	13.07.1950	Charles City / Iowa	16.01.1978	MSP	Ret. 30.06.1989	3	17	2	43	married	two	USA	 	 
+Neubeck	Francis Gregory "Greg"	11.04.1932	Washington, D.C.	12.11.1965	PLT	Ret. 10.06.1969	 	0	0	0	married	one	USA	 	 
+Newman	James Hansen	16.10.1956	Chuuk (formerly Truk) / Micronesia	17.01.1990	MSP	Ret. ??.07.2008	4	43	10	7	married	three	USA	 	 
+Nordsieck	Kenneth Hugh	19.02.1946	New York City	20.06.1984	PSP	Ret. 11.12.1990	 	0	0	0	single	 	USA	 	 
+Noriega	Carlos Ismael	08.10.1959	Lima / Peru	08.12.1994	MSP	Ret. ??.01.2005	2	20	1	17	married	five	USA	 	 
+Nowak	Lisa Marie Caputo	10.05.1963	Washington D.C.	01.05.1996	MSP	Ret. 07.03.2007	1	12	18	36	married	three	USA	 	 
+Nyberg	Karen Lujean	07.10.1969	Parkers Prairie / Minnesota	26.07.2000	MSP	Ret. ??.10.2018	2	180	0	30	married	one	USA	 	 
+O`Connor	Bryan Daniel "O.C."	06.09.1946	Orange / California	19.05.1980	CDR	Ret. 29.07.1991	2	15	23	18	married	two	USA	 	 
+O'Hara	Loral Ashley	03.05.1983	Houston / Texas	07.06.2017	PLT	active	 	0	0	0	 	 	USA	 	 
+O`Leary	Brian Todd	27.01.1940	Boston / Massachusetts	04.08.1967	PLT	Ret. 23.04.1968	 	0	0	0	divorced	two	USA	28.07.2011	Vilcabamba / Ecuador
+Ochoa	Ellen Lauri	10.05.1958	Los Angeles / California	17.01.1990	MSP	Ret. ??.01.2003	4	40	19	37	married	two	USA	 	 
+Odle	Randy Thomas	08.09.1951	Port Arthur / Texas	??.09.1982	MSE	Ret. ??.??.1986	 	0	0	0	married	 	USA	 	 
+Oefelein	William Anthony "Bill"	29.03.1965	Ft. Belvoir / Virginia	04.06.1998	PLT	Ret. 01.06.2007	1	12	20	44	divorced	two	USA	 	 
+Olivas	John Daniel "Danny"	25.05.1966	North Hollywood / California	04.06.1998	MSP	Ret. 25.05.2010	2	27	17	4	married	five	USA	 	 
+Olsen	Gregory Hammond "Greg"	20.04.1945	Brooklyn / New York	06.07.2005	UKP	Ret. 11.10.2005	1	9	21	15	divorced	two	USA	 	 
+Onizuka	Ellison Shoji	24.06.1946	Kealakekua, Kona / Hawaii	16.01.1978	MSP	died 28.01.1986	1	3	1	33	married	two	USA	28.01.1986	Cape Canaveral / Florida
+Oswald	Stephen Scot	30.06.1951	Seattle / Washington	04.06.1985	CDR	Ret. ??.01.2000	3	33	22	30	married	three	USA	 	 
+Overmyer	Robert Franklyn	14.07.1936	Lorain / Ohio	30.06.1966	CDR	Ret. ??.06.1986	2	12	2	22	married	three	USA	22.03.1996	Duluth / Minnesota
+Pailes	William Arthur	26.06.1952	Hackensack / New Jersey	00.09.1982	MSE	Ret. ??.07.1987	1	4	1	44	married	one	USA	 	 
+Parazynski	Scott Edward	28.07.1961	Little Rock / Arkansas	31.03.1992	MSP	Ret. 13.03.2009	5	57	15	31	married	two	USA	 	 
+Parise	Ronald Anthony	24.05.1951	Warren / Ohio	20.06.1984	PSP	Ret. 18.03.1995	2	25	14	13	married	two	USA	09.05.2008	Silver Spring / Maryland
+Parker	Robert Alan Ridley	14.12.1936	New York City / New York	04.08.1967	MSP	Ret. ??.??.1993	2	19	6	52	married	five	USA	 	 
+Patrick	Nicholas James MacDonald	22.03.1964	Saltburn / United Kingdom	04.06.1998	MSP	Ret. 31.05.2012	2	26	14	50	married	three	USA	 	 
+Pawelczyk	James Anthony "Jim"	20.09.1960	Buffalo / New York	??.03.1996	PSP	Ret. 03.05.1998	1	15	21	50	married	two	USA	 	 
+Payton	Gary Eugene	20.06.1948	Rock Island / Illinois	??.08.1979	MSE	Ret. ??.08.1985	1	3	1	33	married	one	USA	 	 
+Petersen	Forrest Silas "Pete"	16.05.1922	Holdrege / Nebraska	??.??.1958	PLT	Ret. 10.01.1962	 	0	0	0	married	four	USA	08.12.1990	Omaha / Nebraska
+Peterson	Donald Herod	22.10.1933	Winona / Mississippi	30.06.1967	MSP	Ret. ??.12.1984	1	5	0	23	widowed	three	USA	27.05.2018	El Lago / Texas
+Pettit	Donald Roy	20.04.1955	Silverton / Oregon	01.05.1996	MSP	active	3	369	16	41	married	two	USA	 	 
+Phillips	John Lynch	15.04.1951	Fort Belvoir / Virginia	01.05.1996	MSP	Ret. ??.08.2011	3	203	17	22	married	two	USA	 	 
+Phillips	Robert Ward	21.01.1929	Peoria / Illinois	09.01.1984	PSP	Ret. 14.06.1991	 	0	0	0	married	four	USA	26.02.2013	Fort Collins / Colorado
+Pogue	William Reid	23.01.1930	Okemah / Oklahoma	04.04.1966	PLT	Ret. 01.09.1975	1	84	1	15	married	three	USA	03.03.2014	Cocoa Beach / Florida
+Poindexter	Alan Goodwin "Dex"	05.11.1961	Pasadena / California	04.06.1998	CDR	Ret. ??.12.2010	2	27	21	8	married	two	USA	01.07.2012	Pensacola / Florida
+Polansky	Mark Lewis "Roman"	02.06.1956	Paterson / New Jersey	01.05.1996	CDR	Ret. 30.06.2012	3	41	10	49	married	two	USA	 	 
+Poteet	Scott "Kidd"	 	 	??.??.2022	Tourist	active	 	0	0	0	 	 	USA	 	 
+Prahl	Joseph Markel	30.03.1943	Beverly / Massachusetts	05.08.1990	PSP	Ret. 09.07.1992	 	0	0	0	married	two	USA	19.04.2018	Cleveland / Ohio
+Precourt	Charles Joseph	29.06.1955	Waltham / Massachusetts	17.01.1990	CDR	Ret. 11.03.2005	4	38	20	16	married	three	USA	 	 
+Prinz	Dianne Kasnic	29.09.1938	Economy / Pennsylvania	09.08.1978	PSP	Ret. 06.08.1985	 	0	0	0	divorced	 	USA	12.10.2002	Arlington / Virginia
+Proctor	Sian Hayley	28.03.1970	Agana, Guam	??.??.20??	Tourist	Ret. 18.09.2021	1	2	23	3	divorced	 	USA	 	 
+Puz	Craig Anton	24.06.1954	Pasadena / California	??.09.1982	MSE	Ret. ??.09.1990	 	0	0	0	married	one	USA	21.12.2008	Golden / Colorado
+Readdy	William Francis "Bill"	24.01.1952	Quonset Point / Rhode Island	05.06.1987	CDR	Ret. 14.10.2005	3	28	0	43	married	three	USA	 	 
+Reightler	Kenneth Stanley, Jr.	24.03.1951	Patuxent River / Maryland	05.06.1987	PLT	Ret. ??.07.1995	2	13	15	36	married	two	USA	 	 
+Reilly	James Francis II "J.R."	18.03.1954	Mountain Home AFB / Idaho	08.12.1994	MSP	Ret. ??.05.2008	3	35	10	33	married	three	USA	 	 
+Reisman	Garrett Erin "Big G"	10.02.1968	Morristown / New Jersey	04.06.1998	MSP	Ret. ??.03.2011	2	107	3	15	married	two	USA	 	 
+Resnik	Judith Arlene "J.R."	05.04.1949	Akron / Ohio	16.01.1978	MSP	died 28.01.1986	1	6	0	56	divorced	 	USA	28.01.1986	Cape Canaveral / Florida
+Richards	Paul William	20.05.1964	Scranton / Pennsylvania	01.05.1996	MSP	Ret. ??.02.2002	1	12	19	49	married	four	USA	 	 
+Richards	Richard Noel "Dick"	24.08.1946	Key West / Florida	19.05.1980	CDR	Ret. ??.04.1995	4	33	21	29	married	 	USA	 	 
+Ride	Sally Kristen	26.05.1951	Los Angeles / California	16.01.1978	MSP	Ret. 15.08.1987	2	14	7	47	divorced	 	USA	23.07.2012	La Jolla / California
+Rij	Jerry Jerome	23.02.1950	Elizabeth / New Jersey	??.08.1979	MSE	Ret. ??.08.1985	 	0	0	0	married	two	USA	 	 
+Roberts	Katherine Eileen Sparks	25.06.1954	Wichita / Kansas	??.09.1982	MSE	Ret. ??.??.1987	 	0	0	0	married	 	USA	 	 
+Robinson	Stephen Kern	26.10.1955	Sacramento / California	08.12.1994	MSP	Ret. 30.06.2012	4	48	9	48	single	 	USA	 	 
+Rogers	Russel Lee	12.04.1928	Lawrence / Kansas	20.09.1962	PLT	Ret. 10.12.1963	 	0	0	0	married	four	USA	13.09.1967	Kadena AFB / Okinawa, JAPAN
+Rominger	Kent Vernon	07.08.1956	Del Norte / Colorado	31.03.1992	CDR	Ret. 30.09.2006	5	67	2	54	married	one	USA	 	 
+Ronney	Paul David	01.05.1957	Los Angeles / California	??.02.1996	PSP	Ret. 17.07.1997	 	0	0	0	married	 	USA	 	 
+Roosa	Stuart Allen "Stu"	16.08.1933	Durango / Colorado	04.04.1966	CMP	Ret. 01.02.1976	1	9	0	1	married	four	USA	12.12.1994	Falls Church / Virginia
+Ross	Jerry Lynn	20.01.1948	Crown Point / Indiana	19.05.1980	MSP	Ret. 20.01.2012	7	58	0	51	married	two	USA	 	 
+Rubins	Kathleen Hallisey "Kate"	14.10.1978	Farmington / Connecticut	29.06.2009	MSP	active	2	300	1	31	married	 	USA	 	 
+Rubio	Francisco Carlos "Frank"	11.12.1976	Los Angeles / California	07.06.2017	PLT	active	 	0	0	0	married	four	USA	 	 
+Runco	Mario, Jr. "Trooper"	26.01.1952	Bronx / New York	05.06.1987	MSP	Ret. 27.06.2002	3	22	23	7	married	two	USA	 	 
+Rushworth	Robert Aitken	09.10.1924	Madison / Maine	??.??.1958	PLT	Ret. 01.07.1966	 	0	0	0	married	one	USA	18.03.1993	Camarillo / California
+Sacco	Albert, Jr. "Al"	03.05.1949	Boston / Massachusetts	06.08.1990	PSP	Ret. 05.11.1995	1	15	21	52	married	four	USA	 	 
+Satcher	Robert Lee, Jr. "Bobby"	22.09.1965	Hampton / Virginia	06.05.2004	MSP	Ret. 09.09.2011	1	10	19	16	married	two	USA	 	 
+Schirra	Walter Marty, Jr. "Wally"	12.03.1923	Hackensack / New Jersey	02.04.1959	CDR	Ret. 01.07.1969	3	12	7	13	married	two	USA	03.05.2007	San Diego / California
+Schmitt	Harrison Hagan "Jack"	03.07.1935	Santa Rita / New Mexico	28.06.1965	LMP	Ret. 30.08.1975	1	12	13	52	married	 	USA	 	 
+Schweickart	Russell Louis "Rusty"	25.10.1935	Neptune / New Jersey	17.10.1963	LMP	Ret. 01.07.1979	1	10	1	0	divorced	five	USA	 	 
+Scobee	Francis Richard "Dick"	19.05.1939	Cle Elum / Washington	16.01.1978	CDR	died 28.01.1986	1	6	23	40	married	two	USA	28.01.1986	Cape Canaveral / Florida
+Scott	David Randolph	06.06.1932	San Antonio / Texas	17.10.1963	CDR	Ret. 30.10.1977	3	22	18	53	married	two	USA	 	 
+Scott	Winston Elliott	06.08.1950	Miami / Florida	31.03.1992	MSP	Ret. 31.07.1999	2	24	14	34	married	two	USA	 	 
+Scully-Power	Paul Desmond	28.05.1944	Sydney / Australia	??.06.1984	PSP	Ret. 13.10.1984	1	8	5	23	married	six	USA	 	 
+Searfoss	Richard Alan	05.06.1956	Mount Clemens / Michigan	17.01.1990	CDR	Ret. 31.12.1998	3	39	3	18	married	three	USA	29.09.2018	Bear Valley Springs / California
+Seddon	Margaret Rhea	08.11.1947	Murfreesboro / Tennessee	16.01.1978	MSP	Ret. 23.02.1998	3	30	2	21	married	three	USA	 	 
+See	Elliot McKay, Jr.	23.07.1927	Dallas / Texas	17.09.1962	CDR	died 28.02.1966	 	0	0	0	married	three	USA	28.02.1966	St. Louis / Missouri
+Sefchek	Paul Andrew	07.07.1946	Perth Amboy / New Jersey	??.08.1979	MSE	Ret. ??.08.1985	 	0	0	0	married	 	USA	24.07.1997	Rancho Palos Verdes / California
+Sega	Ronald Michael	04.12.1952	Cleveland / Ohio	17.01.1990	MSP	Ret. 01.07.1996	2	17	12	25	married	two	USA	 	 
+Sellers	Piers John	11.04.1955	Crowborough / England	01.05.1996	MSP	Ret. 05.06.2011	3	35	9	2	married	two	USA	23.12.2016	Houston / Texas
+Sembroski	Christopher Steven	28.08.1979	Kannapolis, North Carolina	??.??.20??	Tourist	Ret. 18.09.2021	1	2	23	3	married	two	USA	 	 
+Shaw	Brewster Hopkinson, Jr.	16.05.1945	Cass City / Michigan	16.01.1978	CDR	Ret. ??.10.1989	3	22	5	51	married	three	USA	 	 
+Shepard	Alan Bartlett, Jr. "Al"	18.11.1923	East Derry / New Hampshire	02.04.1959	CDR	Ret. 01.08.1974	1	9	0	1	married	two	USA	21.07.1998	Monterey / California
+Shepherd	William McMichael	26.07.1949	Oak Ridge / Tennessee	23.05.1984	MSP	Ret. 14.08.2002	4	159	7	49	married	 	USA	 	 
+Shriver	Loren James	23.09.1944	Jefferson / Iowa	16.01.1978	CDR	Ret. ??.05.1993	3	16	2	4	married	four	USA	 	 
+Simon	George Warren	22.04.1934	Frankfurt/M. / Germany	09.08.1978	PSP	Ret. 06.08.1985	 	0	0	0	married	three	USA	 	 
+Simonyi	Charles "Károly"	10.09.1948	Budapest / Hungaria	??.04.2006	UKP	Ret. 21.04.2007	2	26	14	25	married	 	USA	 	 
+Skantze	Lawrence Albert	24.06.1928	Bronx / New York	??.08.1985	PSP	Ret. ??.??.1986	 	0	0	0	widowed	three	USA	18.06.2018	McLean / Virginia
+Slayton	Donald Kent "Deke"	01.03.1924	Sparta / Wisconsin	02.04.1959	DMP	Ret. 27.02.1982	1	9	1	28	married	one	USA	13.06.1993	League City / Texas
+Smith	Michael John	30.04.1945	Beaufort / North Carolina	19.05.1980	PLT	died 28.01.1986	 	0	0	0	married	three	USA	28.01.1986	Cape Canaveral / Florida
+Smith	Steven Lee	30.12.1958	Phoenix / Arizona	31.03.1992	MSP	Ret. ??.01.2005	4	40	0	15	married	two	USA	 	 
+Sponable	Jess Mitchell	29.11.1955	Madrid / Spain	??.09.1982	MSE	Ret. ??.??.1987	 	0	0	0	married	one	USA	 	 
+Spring	Sherwood Clark "Woody"	03.09.1944	Hartford / Connecticut	19.05.1980	MSP	Ret. ??.08.1988	1	6	21	4	married	two	USA	 	 
+Springer	Robert Clyde	21.05.1942	St. Louis / Missouri	19.05.1980	MSP	Ret. ??.12.1990	2	9	21	32	married	three	USA	 	 
+Stafford	Thomas Patten "Tom"	17.09.1930	Weatherford / Oklahoma	17.09.1962	CDR	Ret. 01.11.1975	4	21	3	42	married	two	USA	 	 
+Staib	David Paul, Jr.	20.06.1955	Fort Campbell / Kentucky	??.09.1985	MSE	Ret. ??.07.1988	 	0	0	0	married	one	USA	 	 
+Stefanyshyn-Piper	Heidemarie Martha	07.02.1963	St. Paul / Minnesota	01.05.1996	MSP	Ret. ??.07.2009	2	27	15	35	married	one	USA	 	 
+Stevenson	Robert Everett	15.01.1921	Fullerton / California	13.06.1984	PSP	Ret. ??.??.1984	 	0	0	0	married	two	USA	12.08.2001	Princeville / Hawaii
+Stewart	Robert Lee	13.08.1942	Washington D.C.	16.01.1978	MSP	Ret. ??.01.1986	2	12	0	59	married	two	USA	 	 
+Still-Kilrain	Susan Leigh	24.10.1961	Augusta / Georgia	08.12.1994	PLT	Ret. ??.12.2002	2	19	15	56	married	one	USA	 	 
+Stott	Nicole Marie Passonno	19.11.1962	Albany / New York	26.07.2000	MSP	Ret. 31.05.2015	2	103	5	48	married	one	USA	 	 
+Sturckow	Frederick Wilford "Rick"	11.08.1961	La Mesa / California	08.12.1994	CDR	Ret. ??.03.2013	4	51	9	34	married	two	USA	 	 
+Sullivan	Kathryn Dwyer	03.10.1951	Paterson / New Jersey	16.01.1978	MSP	Ret. ??.06.1993	3	22	4	49	single	 	USA	 	 
+Sundberg	Eric Edward	10.04.1945	Tonopah / Nevada	??.08.1979	MSE	Ret. ??.08.1985	 	0	0	0	married	two	USA	 	 
+Swanson	Steven Ray "Swanny"	03.12.1960	Syracuse / New York	04.06.1998	MSP	Ret. 30.08.2015	3	195	20	45	married	three	USA	 	 
+Swigert	John Leonard, Jr. "Jack"	30.08.1931	Denver / Colorado	04.04.1966	CMP	Ret. ??.04.1973	1	5	22	54	single	 	USA	27.12.1982	Washington D.C.
+Tani	Daniel Michio	01.02.1961	Ridley Park / Pennsylvania	01.05.1996	MSP	Ret. ??.08.2012	2	131	18	4	married	three	USA	 	 
+Tanner	Joseph Richard "Joe"	21.01.1950	Danville / Illinois	31.03.1992	MSP	Ret. ??.09.2008	4	43	13	14	married	two	USA	 	 
+Taylor	James Martin	27.11.1930	Stamps / Arkansas	12.11.1965	PLT	Ret. 10.06.1969	 	0	0	0	married	three	USA	04.09.1970	Palmdale / California
+Thagard	Norman Earl	03.07.1943	Marianna / Florida	16.01.1978	MSP	Ret. 03.01.1996	5	140	13	25	married	three	USA	 	 
+Thomas	Andrew Sydney Withiel	18.12.1951	Adelaide / Australia	31.03.1992	MSP	Ret. ??.12.2010	4	177	9	13	married	 	USA	 	 
+Thomas	Donald Alan	06.05.1955	Cleveland / Ohio	17.01.1990	MSP	Ret. ??.07.2007	4	43	8	11	married	one	USA	 	 
+Thompson	Milton Orville	04.05.1926	Crookston / Minnesota	20.09.1962	PLT	Ret. 28.05.1965	 	0	0	0	married	five	USA	06.08.1993	Lancaster / California
+Thompson	William David	14.01.1956	Charleston / West Virginia	??.09.1982	MSE	Ret. ??.??.1987	 	0	0	0	married	 	USA	 	 
+Thorne	Stephen Douglas	11.02.1953	Frankfurt/M. / Germany	04.06.1985	PLT	died 24.05.1986	 	0	0	0	married	 	USA	24.05.1986	Alta Loma / Texas
+Thornton	Kathryn Ryan Cordell	17.08.1952	Montgomery / Alabama	23.05.1984	MSP	Ret. 01.08.1996	4	40	15	13	married	five	USA	 	 
+Thornton	William Edgar	14.04.1929	Faison / North Carolina	04.08.1967	MSP	Ret. 31.05.1994	2	13	1	16	married	two	USA	11.01.2021	Boerne / Texas
+Thuot	Pierre Joseph	19.05.1955	Groton / Connecticut	04.06.1985	MSP	Ret. ??.06.1995	3	27	6	51	married	two	USA	 	 
+Tingle	Scott David "Maker"	19.07.1965	Attleboro / Massachusetts	29.06.2009	PLT	active	1	168	5	18	married	three	USA	 	 
+Tito	Dennis Anthony	08.08.1940	Queens / New York	09.10.2000	UKP	Ret. 06.05.2001	1	7	22	4	married	three	USA	 	 
+Tittle	Theresa Mary Stevens	25.11.1960	Springfield / Massachusetts	??.09.1985	MSE	Ret. ??.07.1988	 	0	0	0	married	 	USA	 	 
+Townsend	Ronald Dean	19.06.1948	Concordia / Kansas	??.11.1985	PSP	Ret. ??.??.1986	 	0	0	0	married	 	USA	 	 
+Trinh	Eugene Huu-Chau "Gene"	14.09.1950	Saigon / Vietnam	05.06.1983	PSP	Ret. 09.07.1992	1	13	19	30	married	one	USA	 	 
+Truly	Richard Harrison "Dick"	12.11.1937	Fayette / Mississippi	12.11.1965	CDR	Ret. 01.10.1983	2	8	7	21	married	three	USA	 	 
+Vande Hei	Mark Thomas	10.11.1966	Falls Church / Virginia	29.06.2009	MSP	active	2	523	8	59	married	two	USA	 	 
+van den Berg	Lodewijk	24.03.1932	Sluiskil / Netherlands	05.06.1983	PSP	Ret. 06.05.1985	1	7	0	8	married	two	USA	 	 
+van Hoften	James Dougal Adrianus "Ox"	11.06.1944	Fresno / California	16.01.1978	MSP	Ret. 01.08.1986	2	14	1	57	married	three	USA	 	 
+Vangen	Scott Duane	12.12.1959	Granite Falls / Minnesota	??.05.1993	PSP	Ret. 18.03.1995	 	0	0	0	single	 	USA	 	 
+Veach	Charles Lacy	18.09.1944	Chicago / Illinois	23.05.1984	MSP	died 03.10.1995	2	18	4	18	married	two	USA	03.10.1995	Houston / Texas
+Vidrine	David Matthew	21.11.1943	Ville Platte / Louisiana	??.08.1979	MSE	Ret. ??.08.1985	 	0	0	0	married	two	USA	 	 
+Virts	Terry Wayne, Jr.	01.12.1967	Baltimore / Maryland	26.07.2000	PLT	Ret. 23.08.2016	2	213	10	48	married	two	USA	 	 
+Voss	James Shelton	03.03.1949	Cordova / Alabama	05.06.1987	MSP	Ret. ??.06.2003	5	202	5	26	married	one	USA	 	 
+Voss	Janice Elaine	08.10.1956	South Bend / Indiana	17.01.1990	MSP	died 06.02.2012	5	49	3	46	divorced	 	USA	06.02.2012	Scottsdale / Arizona
+Walheim	Rex Joseph	10.10.1962	Redwood City / California	01.05.1996	MSP	Ret. 28.06.2018	3	36	8	31	married	two	USA	 	 
+Walker	Charles David	29.08.1948	Bedford / Indiana	01.07.1983	PSP	Ret. 03.12.1985	3	19	21	56	married	one	USA	 	 
+Walker	David Mathieson	20.05.1944	Columbus / Georgia	16.01.1978	CDR	Ret. 15.04.1996	4	30	4	27	married	two	USA	23.04.2001	Houston / Texas
+Walker	Joseph Albert	20.02.1921	Washington / Pennsylvania	??.??.1960	PLT	Ret. 22.08.1963	 	0	0	0	married	four	USA	08.06.1966	Barstow / California
+Walker	Shannon	04.06.1965	Houston / Texas	06.05.2004	MSP	active	2	330	13	40	married	 	USA	 	 
+Walz	Carl Erwin	06.09.1955	Cleveland / Ohio	17.01.1990	MSP	Ret. 05.12.2008	4	230	13	2	married	two	USA	 	 
+Wang	Taylor Gun-Jin	16.06.1940	Shanghai / China	05.06.1983	PSP	Ret. 06.05.1985	1	7	0	8	married	two	USA	 	 
+Watkins	Jessica Andrea	14.05.1988	Gaithersburg / Maryland	07.06.2017	PLT	active	1	0	0	0	 	 	USA	 	 
+Watterson	John Brett	10.09.1949	Garden City / New York	??.08.1979	MSE	Ret. ??.06.1986	 	0	0	0	married	one	USA	 	 
+Weaver	Carol Lynn Belt	30.01.1953	Red Oak / Iowa	??.03.1988	PSP	Ret. ??.??.????	 	0	0	0	married	 	USA	 	 
+Weber	Mary Ellen	24.08.1962	Cleveland / Ohio	31.03.1992	MSP	Ret. ??.12.2002	2	18	18	29	married	 	USA	 	 
+Weitz	Paul Joseph	25.07.1932	Erie / Pennsylvania	04.04.1966	CDR	Ret. ??.03.1988	2	33	1	13	married	two	USA	23.10.2017	Flagstaff / Arizona
+Wetherbee	James Donald "Wexbee"	27.11.1952	Flushing / New York	23.05.1984	CDR	Ret. 03.01.2005	6	66	10	20	married	two	USA	 	 
+Wheelock	Douglas Harry	05.05.1960	Binghamton / New York	04.06.1998	MSP	active	2	178	9	34	married	one	USA	 	 
+White	Edward Higgins II	14.11.1930	San Antonio / Texas	17.09.1962	PLT	died 27.01.1967	1	4	1	56	married	two	USA	27.01.1967	Cape Canaveral / Florida
+White	Robert Michael	06.07.1924	New York / New York	??.??.1960	PLT	Ret. 14.12.1962	 	0	0	0	married	four	USA	17.03.2010	Orlando / Florida
+Whitson	Peggy Annette	09.02.1960	Mt. Ayr / Iowa	01.05.1996	MSP	Ret. 15.06.2018	3	665	22	22	married	 	USA	 	 
+Wilcutt	Terrence Wade	31.10.1949	Russellville / Kentucky	17.01.1990	CDR	Ret. ??.02.2005	4	42	0	1	married	two	USA	 	 
+Williams	Bill Alvin	09.02.1942	Oakland / California	15.09.1983	PSP	Ret. 11.02.1985	 	0	0	0	married	four	USA	 	 
+Williams	Christopher Leigh	??.10.1983	New York City, New York	06.12.2021	PLT	active	 	0	0	0	 	 	USA	 	 
+Williams	Clifton Curtis "CC"	26.09.1932	Mobile / Alabama	17.10.1963	PLT	died 05.10.1967	 	0	0	0	married	two	USA	05.10.1967	Tallahassee / Florida
+Williams	Donald Edward	13.02.1942	Lafayette / Indiana	16.01.1978	CDR	Ret. 01.03.1990	2	11	23	34	married	two	USA	23.02.2016	Henderson / Nevada
+Williams	Jeffrey Nels	18.01.1958	Superior / Wisconsin	01.05.1996	MSP	Ret. ??.07.2020	4	534	2	48	married	two	USA	 	 
+Williams	Sunita Lyn "Suni"	19.09.1965	Euclid / Ohio	04.06.1998	MSP	active	2	321	17	15	married	 	USA	 	 
+Wilmore	Barry Eugene "Butch"	29.12.1962	Murfreesboro / Tennessee	26.07.2000	PLT	active	2	178	0	58	married	 	USA	 	 
+Wilson	Stephanie Diana	27.09.1966	Boston / Massachusetts	01.05.1996	MSP	active	3	42	23	46	married	 	USA	 	 
+Wiseman	Gregory Reid	11.11.1975	Baltimore / Maryland	29.06.2009	PLT	active	1	165	8	1	married	two	USA	 	 
+Wisoff	Peter Jeffrey Kelsay "Jeff"	16.08.1958	Norfolk / Virginia	17.01.1990	MSP	Ret. 21.09.2001	4	44	8	7	married	 	USA	 	 
+Wittner	Jessica Owens	15.03.1983	Fresno, California	06.12.2021	PLT	active	 	0	0	0	married	 	USA	 	 
+Wolf	David Alexander "Bluto"	23.08.1956	Indianapolis / Indiana	17.01.1990	MSP	Ret. ??.??.20??	4	168	8	55	married	 	USA	 	 
+Wood	James Wayne	09.08.1924	Paragould / Arkansas	20.09.1962	PLT	Ret. 10.12.1963	 	0	0	0	married	three	USA	01.01.1990	Melbourne / Florida
+Wood	Robert Jackson	26.06.1957	Fitchburg / Massachusetts	??.03.1985	PSP	Ret. ??.01.1986	 	0	0	0	married	five	USA	19.02.2009	St. Charles County / Missouri
+Woodward	Neil Whitney III	26.07.1962	Chicago / Illinois	04.06.1998	MSP	Ret. ??.07.2008	 	0	0	0	married	 	USA	 	 
+Worden	Alfred Merrill	07.02.1932	Jackson / Michigan	04.04.1966	CMP	Ret. 01.09.1975	1	12	7	12	married	three	USA	18.03.2020	Houston / Texas
+Wright	Keith Charles	31.08.1947	St. Louis / Missouri	??.08.1979	MSE	Ret. ??.05.1985	 	0	0	0	married	two	USA	 	 
+Yeakel	Glenn Scott	28.05.1956	Allentown / Pennsylvania	??.09.1982	MSE	Ret. ??.07.1988	 	0	0	0	divorced	 	USA	 	 
+Young	John Watts	24.09.1930	San Francisco / California	17.09.1962	CDR	Ret. 31.12.2004	6	34	19	39	married	two	USA	05.01.2018	Houston / Texas
+Young	Laurence Retman	19.12.1935	New York City	??.12.1991	PSP	Ret. 01.11.1993	 	0	0	0	married	three	USA	04.08.2021	Cambridge / Massachusetts
+Zamka	George David "Zambo"	29.06.1962	Jersey City / New Jersey	04.06.1998	CDR	Ret. ??.08.2011	2	28	20	29	married	two	USA

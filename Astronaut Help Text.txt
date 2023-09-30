@@ -1,0 +1,5 @@
+Astronaut Help File
+
+http://www.spacefacts.de/english/e_astro.htm
+
+Data was taken in September 2022. Data was scraped from SpaceFacts.de 
